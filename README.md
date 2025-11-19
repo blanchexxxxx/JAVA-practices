@@ -1,2 +1,4 @@
 # JAVA-practices
-blanchex's JAVA pratices
+Hello!This is blanchex's JAVA pratices project.
+---
+
